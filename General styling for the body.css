@@ -2,8 +2,8 @@
 body {
     font-family: Arial, sans-serif;
     background-color:red;
-     background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dbook&psig=AOvVaw0vbs3A4AMg6S2HZS8uWDgd&ust=1741935128501000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiYt5q8howDFQAAAAAdAAAAABAE";
-
+    background-image: url ("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fsearch%3Fq%3Dbook&psig=AOvVaw0vbs3A4AMg6S2HZS8uWDgd&ust=1741935128501000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiYt5q8howDFQAAAAAdAAAAABAE"
+);
     display: flex;
     justify-content: center;
     align-items: center;
