@@ -1,7 +1,6 @@
 /* General styling for the body */
 body {
     font-family: Arial, sans-serif;
-    background-color:red;
     background-image: url ('https://m.media-amazon.com/images/I/81OthjkJBuL._AC_UL320_.jpg');
     display: flex;
     justify-content: center;
